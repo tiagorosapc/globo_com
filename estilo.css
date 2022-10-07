@@ -192,4 +192,8 @@ a {
   .conteudo-principal {
     flex-direction: column;
   }
+
+  body{
+    background-color: red;
+  }
 }
